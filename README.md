@@ -7,7 +7,7 @@ Yet another esoteric language, inspired by brainfuck.
 - Provide a few more examples.
 
 # Commands
-Just like brainfuck, there is a movable data pointer to get around.
+Just like brainfuck, there is a movable data pointer to get around. Take into account that ASCII character encoding is used for input/output.
 
 | Command | Description |
 | --- | --- |
