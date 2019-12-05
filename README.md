@@ -3,7 +3,6 @@ Yet another esoteric language, inspired by brainfuck.
 
 # To-do
 - Modify/Add features keeping backwards compatibility.</br>
-- Provide solution files for Visual Studio.
 - Provide a few more examples.
 
 # Commands
